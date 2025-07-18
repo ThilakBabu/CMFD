@@ -9,8 +9,12 @@ Cloning (copy-move forgery) is a malicious tampering attack with digital images 
 
 #Cite As
 
-Ramu, Gonapalli, and S. B. G. Thilak Babu. “Image Forgery Detection for High Resolution Images Using SIFT and RANSAC Algorithm.” 2017 2nd International Conference on Communication and Electronics Systems (ICCES), IEEE, 2017, doi:10.1109/cesys.2017.8321205.
-Babu, S. B. G. Tilak, and Ch. Srinivasa Rao. “Texture and Steerability Based Image Authentication.” 2016 11th International Conference on Industrial and Information Systems (ICIIS), IEEE, 2016, doi:10.1109/iciinfs.2016.8262925.
-Babu, S. B. G. Tilak, and Ch Srinivasa Rao. “An Optimized Technique for Copy–Move Forgery Localization Using Statistical Features.” ICT Express, vol. 8, no. 2, Elsevier BV, June 2022, pp. 244–49, doi:10.1016/j.icte.2021.08.016.
-Babu, S. B. G. Tilak, and Ch Srinivasa Rao. “An Optimized Technique for Copy–Move Forgery Localization Using Statistical Features.” ICT Express, vol. 8, no. 2, Elsevier BV, June 2022, pp. 244–49, doi:10.1016/j.icte.2021.08.016.
-Babu, S. B. G. Tilak, and Ch Srinivasa Rao. “Efficient Detection of Copy-Move Forgery Using Polar Complex Exponential Transform and Gradient Direction Pattern.” Multimedia Tools and Applications, vol. 82, no. 7, Springer Science and Business Media LLC, Feb. 2022, pp. 10061–75, doi:10.1007/s11042-022-12311-6.
+1. Ramu, Gonapalli, and S. B. G. Thilak Babu. “Image Forgery Detection for High Resolution Images Using SIFT and RANSAC Algorithm.” 2017 2nd International Conference on Communication and Electronics Systems (ICCES), IEEE, 2017, doi:10.1109/cesys.2017.8321205.
+
+2. Babu, S. B. G. Tilak, and Ch. Srinivasa Rao. “Texture and Steerability Based Image Authentication.” 2016 11th International Conference on Industrial and Information Systems (ICIIS), IEEE, 2016, doi:10.1109/iciinfs.2016.8262925.
+
+3. Babu, S. B. G. Tilak, and Ch Srinivasa Rao. “An Optimized Technique for Copy–Move Forgery Localization Using Statistical Features.” ICT Express, vol. 8, no. 2, Elsevier BV, June 2022, pp. 244–49, doi:10.1016/j.icte.2021.08.016.
+
+4. Babu, S. B. G. Tilak, and Ch Srinivasa Rao. “An Optimized Technique for Copy–Move Forgery Localization Using Statistical Features.” ICT Express, vol. 8, no. 2, Elsevier BV, June 2022, pp. 244–49, doi:10.1016/j.icte.2021.08.016.
+
+5. Babu, S. B. G. Tilak, and Ch Srinivasa Rao. “Efficient Detection of Copy-Move Forgery Using Polar Complex Exponential Transform and Gradient Direction Pattern.” Multimedia Tools and Applications, vol. 82, no. 7, Springer Science and Business Media LLC, Feb. 2022, pp. 10061–75, doi:10.1007/s11042-022-12311-6.
